@@ -9,7 +9,7 @@ function App() {
     salary: "",
   });
 
-  const API_URL = "https://ems-backend-so5p.onrender.com";
+  const API_URL = "https://ems-backend-so5p.onrender.com/employees";
 
   // FETCH EMPLOYEES
 
